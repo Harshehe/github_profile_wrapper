@@ -11,6 +11,7 @@ body{
 #userName{
   color: rgb(1, 14, 7);
   font-size: large;
+  text-align: center;
 }
 input {
   width: 10%;
@@ -32,12 +33,14 @@ input {
   background-position: left top;
   background-repeat: repeat;
   padding: 10px;
+  text-align: center;
  
 }
 
 
 #showDetails{
   color: rgb(0, 8, 8);
+  text-align: center;
 }
 
 .card{
@@ -55,6 +58,7 @@ input {
   border-radius: 50%;
   position: relative;
   overflow: hidden;
+  align-items: center;
 }
 .card-body{
   bottom: 180px;
@@ -91,6 +95,7 @@ p{
   border: 1px solid black;
   padding: 5px;
   border-radius: 5px;
+  text-align: center;
   
 
 }
@@ -98,6 +103,7 @@ p{
   background-color: rgb(156, 87, 87);
   color: wheat;
   transition: .5sp;
+  text-align: center;
   
 }
 #repobtn{
@@ -107,6 +113,7 @@ p{
   border: 1px solid black;
   padding: 5px;
   border-radius: 5px;
+  text-align: center;
   
 
 }
@@ -114,6 +121,7 @@ p{
   background-color: rgb(156, 87, 87);
   color: wheat;
   transition: .5sp;
+  text-align: center;
   
 }
 li{
@@ -122,6 +130,7 @@ li{
     height: 50px;
     margin-bottom: 100px;
     align-items: center;
+    text-align: center;
   
   
 }
